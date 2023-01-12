@@ -4,6 +4,8 @@ con dati gia' inseriti.
 
 Nomi di tabelle e colonne adattati in modo da essere in linea per docenze
 
+VEDERE DIAGRAMMA ER PER RIFERIMENTO
+
 PRODUCTLINES->CATEGORIA_PRODOTTO
 
 
